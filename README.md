@@ -16,9 +16,6 @@ This is a group project to evaluate the current problems of TamJai's loyalty pro
 ## Existing Problems of the Loyalty Program
 ![](image/ProblemCategories.png)
 
-## User Comments After Pre-processing
-![](image/Comments.png)
-
 # [Flight Infomation Database Creation & Management]()
 # [HK Flag Day Volunteer Allocation System]()
 # [Yahoo Finance Web Scrapping]()
