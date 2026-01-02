@@ -1,7 +1,7 @@
 # Eric's Portfolio
 Different projects I have done & keep tracking of my progress.
 
-## [Tamjai Samgor Loyalty Program Evaluation]()
+# [Tamjai Samgor Loyalty Program Evaluation]()
 
 This is a group project to evaluate the current problems of TamJai's loyalty program and propose possible solutions to resolve those problems and also come up with innovative e-CRM stategies to further improve the loyalty program.
 
@@ -10,7 +10,16 @@ This is a group project to evaluate the current problems of TamJai's loyalty pro
 * Define different problem categories and leverage the LLM to do sentiment analysis and classification.
 * Check the accuracy of the classification result and relabel the problem categories manually. 
 
-## [Flight Infomation Database Creation & Management]()
-## [HK Flag Day Volunteer Allocation System]()
-## [Yahoo Finance Web Scrapping]()
-## [Dashboards with IBM Cognos]()
+## Tamjai's App Ratings
+![](image/Ratings.png)
+
+## Existing Problems of the Loyalty Program
+![](image/ProblemCategories.png)
+
+## User Comments After Pre-processing
+![](image/Comments.png)
+
+# [Flight Infomation Database Creation & Management]()
+# [HK Flag Day Volunteer Allocation System]()
+# [Yahoo Finance Web Scrapping]()
+# [Dashboards with IBM Cognos]()
