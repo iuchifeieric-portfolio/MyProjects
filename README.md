@@ -13,10 +13,10 @@ This is a group project to evaluate the current problems of TamJai's loyalty pro
 * Check the accuracy of the classification result and relabel the problem categories manually. 
 
 ## Tamjai's App Ratings
-![](image/Ratings.png)
+![](image/Tamjai/Ratings.png)
 
 ## Existing Problems of the Loyalty Program
-![](image/ProblemCategories.png)
+![](image/Tamjai/ProblemCategories.png)
 
 # [Flight Infomation Database Creation & Management]()
 # [HK Flag Day Volunteer Allocation System]()
